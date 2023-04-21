@@ -1,5 +1,5 @@
 # Hello there wanderer 👋🏼
-I am Jędrzej and I am pleased to welcome you on my GitHub profile.
+I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 
 <!--
 **je3yk/je3yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
