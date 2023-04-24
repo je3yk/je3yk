@@ -58,6 +58,6 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 
 ## 📊🔥 Some stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=je3yk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=je3yk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=467)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=je3yk&count_private=true&theme=dark&show_icons=true)
