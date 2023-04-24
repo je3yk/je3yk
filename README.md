@@ -12,7 +12,7 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 - 🎲 I have huge collection of board games (and it is still growing check it out on my [bgg site](https://boardgamegeek.com/collection/user/Je3yk))
 
 ## 🛠️ Languages & Tools
-### ⏳ daily used
+#### ⏳ daily used
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" title="Typescript" />
@@ -35,7 +35,7 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
   </br>
 </div>
 
-### 🌱 learning
+#### 🌱 Learning
 <div>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" title="aws" />
   <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="github actions" title="github actions" />
@@ -44,7 +44,7 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" title="GraphQL" />
 </div>
                                   
-### ⌛ Also dealt with
+#### ⌛ Also dealt with
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" title="figma" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" title="Material UI" />
@@ -53,10 +53,9 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="raspberry pi" title="raspberry pi" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" title="arduino" />
 </div>
-
-
-
-## 📊 Some stats
+</br>
+</br>
+## 📊🔥 Some stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=je3yk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
