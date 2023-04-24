@@ -1,4 +1,4 @@
-# Hello there wanderer 👋🏼
+# Hello there, dear traveler 👋🏻
 I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 
 ## 👨‍💻 Shortly about me
