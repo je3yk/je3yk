@@ -57,7 +57,8 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 </div>
 </br>
 </br>
-
+                                                                                                                             </br>
+                                                                                                                            
 ## 📊🔥 Some stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=je3yk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=467)](https://git.io/streak-stats)
