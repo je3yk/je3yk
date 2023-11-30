@@ -3,7 +3,7 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 
 ## 👨‍💻 Shortly about me
 - 💻 I'm Fullstack Web Developer, working with React and Node.js
-- 🏢 I'm currently working at [Product Brew](https://productbrew.com/)
+- 🏢 I'm currently working at [TeaCode](https://teacode.io/)
 - 🌱 I'm currently learning Next.js, React Native and GraphQL
 - 🤔 I'm curious about Dev Ops topics
 - 🤖 I'm interested in embedded system projects (Arduino/Raspberry Pi)
