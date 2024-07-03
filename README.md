@@ -2,14 +2,12 @@
 I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 
 ## 👨‍💻 Shortly about me
-- 💻 I'm Fullstack Web Developer, working with React and Node.js
-- 🏢 I'm currently working at [TeaCode](https://teacode.io/)
-- 🌱 I'm currently learning Next.js, React Native and tRPC
-- 🤔 I'm curious about Dev Ops topics
+- 💻 I'm a Fullstack Web Developer, working with React and Node.js
+- 🏢 I'm currently working at [Explain Everything](https://explaineverything.com/) as Senior Front End Engineer Staff
+- 🌱 Right now in my "free time" projects I'm working with next.js, but I want to try Remix, to see their pros and cons
 - 🤖 I'm interested in embedded system projects (Arduino/Raspberry Pi)
-- 💬 Ask me about anything - I am very open for any discussion and I like to learn new stuff 😉
-- 🚴 I'm bike tours lover
-- 🎲 I have huge collection of board games (and it is still growing check it out on my [bgg site](https://boardgamegeek.com/collection/user/Je3yk))
+- 🚴 I'm a bike tour lover
+- 🎲 I have a huge collection of board games (and it is still growing check it out on my [bgg site](https://boardgamegeek.com/collection/user/Je3yk))
 
 ## 🛠️ Languages & Tools
 #### ⏳ daily used
