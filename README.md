@@ -3,7 +3,7 @@ I am Jędrzej and I am pleased to welcome you to my GitHub profile.
 
 ## 👨‍💻 Shortly about me
 - 💻 I'm a Fullstack Web Developer, working with React and Node.js
-- 🏢 I'm currently working at [Explain Everything](https://explaineverything.com/) as Senior Front End Engineer Staff
+- 🏢 I'm currently working at [Explain Everything](https://explaineverything.com/) as Staff FE Engineer
 - 🌱 Right now in my "free time" projects I'm working with next.js, but I want to try Remix, to see their pros and cons
 - 🤖 I'm interested in embedded system projects (Arduino/Raspberry Pi)
 - 🚴 I'm a bike tour lover
