@@ -1,13 +1,13 @@
 # Hello there, dear traveler 👋🏻
-I am Jędrzej and I am pleased to welcome you to my GitHub profile.
+I am Jędrzej, and I am pleased to welcome you to my GitHub profile.
 
-## 👨‍💻 Shortly about me
+## 👨‍💻 A short introduction about me
 - 💻 I'm a Fullstack Web Developer, working with React and Node.js
-- 🏢 I'm currently working at [Explain Everything](https://explaineverything.com/) as Staff FE Engineer
-- 🌱 Right now in my "free time" projects I'm working with next.js, but I want to try Remix, to see their pros and cons
+- 🏢 I'm currently working at [WAYF](https://www.wayfdigital.com/) as Senior Fullstack Developer
+- 🌱 Right now, in my "free time", I am trying some of my ideas with TanStack Start or React Native - it depends on my mood at that time 😉
 - 🤖 I'm interested in embedded system projects (Arduino/Raspberry Pi)
 - 🚴 I'm a bike tour lover
-- 🎲 I have a huge collection of board games (and it is still growing check it out on my [bgg site](https://boardgamegeek.com/collection/user/Je3yk))
+- 🎲 I have a vast collection of board games (and it is still growing, check it out on my [bgg site](https://boardgamegeek.com/collection/user/Je3yk))
 
 ## 🛠️ Languages & Tools
 #### ⏳ daily used
