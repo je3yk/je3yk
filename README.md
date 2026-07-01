@@ -8,7 +8,7 @@ I'm Jędrzej — a Senior Fullstack Developer. Welcome to my corner of GitHub.
 
 - 🏢 Senior Fullstack Developer @ [WAYF](https://www.wayfdigital.com/), building web & mobile products with React, React Native and Node.js
 - 💻 At home across the TypeScript ecosystem — React, Next.js, Node.js, tRPC, PostgreSQL
-- 🧪 Currently exploring TanStack Start and React Native
+- 🧪 Currently focused on building AI-powered solutions and agent workflows
 - 📩 Open to interesting opportunities & collaborations
 
 ---
