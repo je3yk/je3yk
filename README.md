@@ -15,9 +15,11 @@ I'm Jędrzej — a Senior Fullstack Developer. Welcome to my corner of GitHub.
 
 ## 📌 Featured projects
 
-**[fit-fam](https://github.com/je3yk/fit-fam)** — Family wellness app built as a Next.js + Expo monorepo on a shared API: weekly meal planner with auto-generated shopping lists, a shared recipe book, and an activity planner in the works. A hobby project, actively work-in-progress.
+**[fit-fam](https://github.com/je3yk/fit-fam)** — Family wellness app built as a Next.js + Expo monorepo on a shared API: weekly meal planner with auto-generated shopping lists, a shared recipe book, and an activity planner in the works. A hobby project, actively a work in progress.
 
 **[daily-skills](https://github.com/je3yk/daily-skills)** — A set of AI-agent skills I use to plan and execute my daily tasks.
+
+**[zawojski-dev](https://github.com/je3yk/zawojski-dev)** - My portfolio website, created with Figma Make + Cursor
 
 ---
 
